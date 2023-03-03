@@ -1,6 +1,6 @@
 ## 预训练模型
 
-训练的时候，模型存放在train/log2目录下。训练完，我将其移到models/mobilenet/weights目录下了。
+训练的时候，模型存放在train/logs目录下。训练完，我将其移到models/mobilenet/weights目录下了。
 
 ## 数据集
 
