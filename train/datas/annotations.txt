@@ -1,0 +1,311 @@
+Mapo Tofu->0
+Home style sauteed Tofu->1
+Fried Tofu->2
+Bean curd->3
+Stinky tofu->4
+Potato silk->5
+Pan fried potato->6
+Pan fried potato->7
+Braised beans with potato->8
+Fried Potato, Green Pepper & Eggplant->9
+French fries->10
+Yu-Shiang Eggplant->11
+Mashed garlic eggplant->12
+Eggplant with mince pork->13
+Spicy cabbage->14
+Sour cabbage->15
+Steamed Baby Cabbage->16
+Shredded cabbage->17
+Sauteed Lettuce in Oyster Sauce->18
+Saute vegetable->19
+Tumis kangkung->20
+Lettuce with smashed garlic ->21
+Sauteed spainch->22
+Sauteed bean sprouts->23
+Sauteed broad beans->24
+Soybean->25
+Broccoli with Oyster Sauce->26
+Deep Fried lotus root->27
+Lotus root->28
+Tomato salad->29
+Gizzard->30
+Black Fungus in Vinegar Sauce->31
+Cucumber in Sauce->32
+Peanut->33
+Seaweed salad->34
+Chinese Yam in Hot Toffee->35
+Fried Yam->36
+Fried beans->37
+Oyster mushroom->38
+Stuffed bitter melon->39
+Sauteed bitter melon->40
+Pepper with tiger skin->41
+Yuba salad->42
+Fried cauliflower->43
+Sauteed Sweet Corn with Pine Nuts->44
+Sauted Chinese Greens with Mushrooms->45
+Spiced mushroom->46
+Celery and tofu->47
+Sauteed Lily Bulbs and Celery->48
+Leak and tofu->49
+Scrambled egg with tomato->50
+Scrambled Egg with Leek->51
+Scrambled Egg with cucumber->52
+Steamed egg custard->53
+Pork liver->54
+Pig ears->55
+Roast pork->56
+Steamed pork with rice powder->57
+Sweet and sour spareribs->58
+Braised spareribs with kelp->59
+Cola Chicken wings->60
+Chicken Feet with Pickled Peppers->61
+Chicken Feet with black bean sauce->62
+Steamed Chicken with Chili Sauce->63
+Roast goose->64
+Boiled chicken->65
+Saute Spicy Chicken->66
+Steamed Chicken with Mushroom->67
+Chicken braised with brown sauce->68
+Soy sauce chicken->69
+Spicy Chicken->70
+Kung Pao Chicken->71
+Stewed Chicken with Three Cups Sauce->72
+Shredded chicken->73
+Fried chicken drumsticks->74
+Beer duck->75
+Scalloped pork or lamb kidneys->76
+Braised pork->77
+Braised beef->78
+Beef Seasoned with Soy Sauce ->79
+Sirloin tomatoes->80
+Stewed sirloin potatoes->81
+Sauteed Beef Fillet with Hot Green Pepper->82
+Pork with salted vegetable->83
+Double cooked pork slices->84
+Braised Pork with Vermicelli->85
+Boiled Shredded pork in chili oil->86
+Fried Sweet and Sour Tenderloin->87
+Cripsy sweet & sour pork slices->88
+Pot bag meat->89
+Shredded Pork with Vegetables->90
+Tiger lily buds in Baconic->91
+Sauteed Shredded Pork in Sweet Bean Sauce->92
+Shredded pork with bean->93
+Braised pig feet with soy sauce->94
+Tripe->95
+Shredded pork and green pepper->96
+Yu-Shiang Shredded Pork ->97
+Braised Fungus with pork slice->98
+Sauteed Sliced Pork,Eggs and Black Fungus->99
+Lettuce shredded meat->100
+Sauteed Vermicelli with Spicy Minced Pork->101
+Fried Lamb with Cumin->102
+Lamb shashlik->103
+Sauteed Sliced Lamb with Scallion->104
+Stewed Pork Ball in Brown Sauce->105
+Boiled Fish with Picked Cabbage and Chili->106
+Grilled fish->107
+Sweet and sour fish->108
+Sweet and Sour Mandarin Fish->109
+Braised Hairtail in Brown Sauce->110
+Steamed Fish Head with Diced Hot Red Peppers->111
+Fish Filets in Hot Chili Oil->112
+Steamed Perch->113
+Cheese Shrimp Meat->114
+Shrimp broccoli->115
+Braised Shrimp in chili oil->116
+Spicy shrimp ->117
+Spicy crayfish->118
+Shrimp Duplings->119
+Steamed shrimp with garlic and vermicelli->120
+Sauteed Shrimp meat->121
+Pipi shrimp->122
+Scallop in Shell->123
+Oysters->124
+Squid->125
+Abalone->126
+Crab->127
+Turtle->128
+Eel->129
+Yangzhou fried rice->130
+Omelette->131
+Steamed Bun Stuffed->132
+Steamed Pork Dumplings->133
+Egg omelet->134
+Potato omelet->135
+Egg pie cake->136
+Marinated Egg->137
+Poached Egg->138
+Pine cake with Diced Scallion->139
+Sesame seed cake->140
+Chinese hamburger->141
+Leek box->142
+Steamed bun with purple potato and pumpkin->143
+Steamed bun->144
+Steamed stuffed bun->145
+Pumpkin pie->146
+Pizza->147
+Deep-Fried Dough Sticks->148
+Sauteed noodles with minced meat->149
+Chongqing Hot and Sour Rice Noodles->150
+Cold noodles->151
+Noodles with egg and tomato->152
+Spaghetti with meat sauce->153
+Noodles with tomato sauce->154
+Cold Rice Noodles->155
+Sichuan noodles with peppery sauce->156
+Qishan noodles->157
+Fried noodles->158
+Dumplings->159
+Corn Cob->160
+Braised beef noodle->161
+fried rice noodles->162
+Steamed vermicelli roll->163
+Pork wonton->164
+Fried Dumplings->165
+Tang-yuan->166
+Millet congee->167
+Sweet potato porridge->168
+Jellyfish->169
+Minced Pork Congee with Preserved Egg->170
+Rice porridge->171
+Rice->172
+Laver rice->173
+Stone pot of rice->174
+Black bone chicken soup->175
+Crucian and Bean Curd Soup->176
+Dough Drop and Assorted Vegetable Soup->177
+Hot and Sour Soup->178
+Pork ribs soup with radish->179
+Tomato and Egg Soup->180
+West Lake beef soup->181
+Lotus Root and Rib soup->182
+Seaweed and Egg Soup->183
+Seaweed tofu soup->184
+Corn and sparerib soup->185
+Spinach and pork liver soup->186
+Borsch->187
+White fungus soup->188
+White gourd soup->189
+Miso soup->190
+Duck Blood in Chili Sauce->191
+Pork Lungs in Chili Sauce->192
+Spicy pot->193
+Golden meat rolls->194
+Chiffon Cake->195
+Egg Tart->196
+Bread->197
+Croissant->198
+Toast->199
+Biscuits->200
+Cookies->201
+Soda biscuit->202
+Double skin milk->203
+Ice cream->204
+Egg pudding->205
+Sweet stewed snow pear->206
+Fruit salad->207
+abiu->208
+apple->209
+apricot->210
+avocado->211
+bael->212
+banana->213
+bayberry->214
+bell pepper->215
+betel nut->216
+black cherry->217
+black currant->218
+black mullberry->219
+black sapote->220
+blueberry->221
+bread fruit->222
+buddha's hand->223
+cantaloupe->224
+carambola->225
+cherry->226
+clementine->227
+cocoa bean->228
+coconut->229
+coffee->230
+cranberry->231
+custard apple->232
+dragonfruit->233
+durian->234
+fig->235
+finger lime->236
+goji->237
+gooseberry->238
+grape->239
+grapefruit->240
+greengage->241
+guava->242
+hawthorn->243
+honeyberry->244
+horned melon->245
+indian strawberry->246
+jackfruit->247
+jalapeno->248
+jujube->249
+kiwi->250
+kumquat->251
+lemon->252
+lime->253
+mandarine->254
+mango->255
+mangosteen->256
+medlar->257
+melon pear->258
+miracle fruit->259
+muskmelon->260
+nectarine->261
+nutmeg->262
+olive->263
+orange->264
+passion fruit->265
+pea->266
+peanut->267
+pear->268
+persimmon->269
+pineapple->270
+pomegranate->271
+pomelo->272
+prikly pear->273
+quince->274
+rambutan->275
+raspberry->276
+red mulberry->277
+redcurrant->278
+saguaro->279
+salak->280
+sapodilla->281
+snowberry->282
+strawberry->283
+sugar apple->284
+tamarillo->285
+tangelo->286
+watermelon->287
+wax gourd->288
+white currant->289
+white mulberry->290
+white sapote->291
+yali pear->292
+yellow plum->293
+yuzu->294
+zucchini->295
+bean->296
+bitter gourd->297
+bottle gourd->298
+brinjal->299
+broccoli->300
+cabbage->301
+capsicum->302
+carrot->303
+cauliflower->304
+cucumber->305
+papaya->306
+potato->307
+pumpkin->308
+radish->309
+tomato->310
