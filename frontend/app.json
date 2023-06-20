@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/scan/scan",
+    "pages/info/info",
+    "pages/description/description"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#19be6b",
+    "navigationBarTitleText": "果蔬&菜品识别",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

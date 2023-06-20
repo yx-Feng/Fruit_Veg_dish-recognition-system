@@ -1,0 +1,20 @@
+<view class="container">
+    <view class="img">
+        <image class="info_image" src="{{imgurl}}"></image>
+    </view>
+    <view class="info">
+        <view class="table">
+            <text style="font-size:38rpx;">识别结果(共{{result_num}}条)</text>
+            <view class="tr" wx:for="{{itemData}}" wx:key="index">
+                <view class="td">
+                  <rich-text nodes="<b class='b'>【名称】：</b>{{itemData[index]['name']}} <br><b class='b'>【匹配度】：</b><span class='red'>{{itemData[index]['proba']}}%</span>">
+                  </rich-text>
+                  <navigator url="/pages/description/description?key={{index}}" open-type="navigate" hover-class="navigator-hover" class="desc">详细介绍>></navigator>
+                </view>
+            </view>
+        </view> 
+    </view>
+    <view class="copyright2">
+      <text class="bq">@_Edge_Runner_</text>
+    </view>
+</view>

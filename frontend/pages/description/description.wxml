@@ -1,0 +1,15 @@
+<!--pages/description/description.wxml-->
+<view class="container">
+    <view class="img">
+        <image class="desc_image" src="{{imgurl}}"></image>
+    </view>
+    <view class="desc">
+        <view class="title">{{name}} - {{proba}}%</view>
+        <view class="description">
+          <text user-select>{{description}}</text>
+        </view>
+        <view class="copyright">
+          <text class="bq">@_Edge_Runner_</text>
+        </view>
+    </view>
+</view>

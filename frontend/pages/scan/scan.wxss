@@ -1,0 +1,95 @@
+page {
+    height: 100%;
+}
+
+.headView {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150rpx;
+    margin-bottom: 60rpx;
+    height: 300rpx;
+    width: 750rpx;
+    position: relative;
+}
+
+.headView .icon {
+    position: absolute;
+    height: 380rpx;
+    width: 380rpx;
+    border-radius: 50%;
+    border: 20rpx solid #f8f8f9;
+}
+
+.userName {
+    margin: 20rpx 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.info {
+  text-align: center;
+  font-size: 18px;
+}
+
+.big {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.slid {
+    height: 60%;
+}
+
+.detail {
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 60rpx;
+    margin-bottom: 20rpx;
+    color: #000;
+}
+
+.pic {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(243, 186, 80);
+}
+
+.pic .img {
+    height: 100%;
+    background: rgba(255,255,255,0.2);
+    
+}
+
+.pic .img .icon{
+    position: relative;
+    animation: mymove 20s infinite;
+}
+
+@keyframes mymove{
+	0%{
+		transform: rotateZ(0deg);/*从0度开始*/
+	}
+	100%{
+		transform: rotateZ(360deg);/*360度结束*/
+	}
+}
+
+.btn {
+    background: #19be6b;
+    width: 50%;
+    color: #000;
+    border-radius: 6rpx;
+    box-shadow: 0px 0px 2px 2px rgba(8, 15, 26, 0.2);
+}
+
+.xc {
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    margin-top: 1rem;
+}

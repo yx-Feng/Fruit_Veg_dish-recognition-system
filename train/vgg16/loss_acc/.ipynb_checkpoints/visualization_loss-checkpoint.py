@@ -1,0 +1,26 @@
+# loss可视化
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+EPOCH = 60
+
+# 读取csv中指定列的数据
+data = pd.read_csv('./train_val.csv')
+train_loss = data[['train_loss']]  # class 'pandas.core.frame.DataFrame'
+val_loss = data[['val_loss']]
+x = np.arange(1, EPOCH+1)
+y1 = np.array(train_loss) # 将DataFrame类型转化为numpy数组
+y2 = np.array(val_loss)
+
+# 绘制train_val_loss图
+plt.plot(x, y1, 'red', linewidth=2, label='Train Loss')
+plt.plot(x, y2, 'blue', linewidth=2, label='Val Loss')
+# x轴和y轴的刻度
+plt.xlim(0, 62)
+plt.ylim(0, 5)
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.legend()
+plt.savefig('./train_val_loss.png')
+plt.close()  # 关闭窗口

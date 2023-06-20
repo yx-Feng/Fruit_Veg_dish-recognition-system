@@ -1,0 +1,244 @@
+麻婆豆腐->Mapo Tofu->0
+家常豆腐->Home style sauteed Tofu->1
+煎豆腐->Fried Tofu->2
+豆腐花->Bean curd->3
+臭豆腐->Stinky tofu->4
+酸辣土豆丝->Potato silk->5
+土豆泥->Pan fried potato->6
+香煎土豆->Pan fried potato->7
+土豆焖豆角->Braised beans with potato->8
+地三鲜->Fried Potato, Green Pepper & Eggplant->9
+薯条->French fries->10
+鱼香茄子->Yu-Shiang Eggplant->11
+蒜泥茄子->Mashed garlic eggplant->12
+肉末茄子->Eggplant with mince pork->13
+辣白菜->Spicy cabbage->14
+醋溜白菜->Sour cabbage->15
+上汤娃娃菜->Steamed Baby Cabbage->16
+手撕包菜->Shredded cabbage->17
+蚝油生菜->Sauteed Lettuce in Oyster Sauce->18
+炒青菜->Saute vegetable->19
+炒空心菜->Tumis kangkung->20
+蒜蓉油麦菜->Lettuce with smashed garlic ->21
+清炒菠菜->Sauteed spainch->22
+炒豆芽->Sauteed bean sprouts->23
+炒蚕豆->Sauteed broad beans->24
+毛豆->Soybean->25
+蚝油西兰花->Broccoli with Oyster Sauce->26
+香煎藕盒->Deep Fried lotus root->27
+莲藕->Lotus root->28
+凉拌西红柿->Tomato salad->29
+鸡鸭胗->Gizzard->30
+凉拌木耳->Black Fungus in Vinegar Sauce->31
+口水黄瓜->Cucumber in Sauce->32
+花生米->Peanut->33
+凉拌海带丝->Seaweed salad->34
+拔丝山药->Chinese Yam in Hot Toffee->35
+清炒山药->Fried Yam->36
+干煸豆角->Fried beans->37
+蚝油杏鲍菇->Oyster mushroom->38
+酿苦瓜->Stuffed bitter melon->39
+炒苦瓜->Sauteed bitter melon->40
+虎皮青椒->Pepper with tiger skin->41
+凉拌腐竹->Yuba salad->42
+炒花菜->Fried cauliflower->43
+松仁玉米->Sauteed Sweet Corn with Pine Nuts->44
+香菇青菜->Sauted Chinese Greens with Mushrooms->45
+芹菜香干->Celery and tofu->46
+西芹百合->Sauteed Lily Bulbs and Celery->47
+西红柿炒鸡蛋->Scrambled egg with tomato->48
+韭菜炒鸡蛋->Scrambled Egg with Leek->49
+黄瓜炒鸡蛋->Scrambled Egg with cucumber->50
+鸡蛋羹->Steamed egg custard->51
+猪肝->Pork liver->52
+猪耳朵->Pig ears->53
+叉烧->Roast pork->54
+粉蒸排骨->Steamed pork with rice powder->55
+糖醋排骨->Sweet and sour spareribs->56
+海带炖排骨->Braised spareribs with kelp->57
+可乐鸡翅->Cola Chicken wings->58
+泡椒凤爪->Chicken Feet with Pickled Peppers->59
+红烧鸡爪->Chicken Feet with black bean sauce->60
+口水鸡->Steamed Chicken with Chili Sauce->61
+烤鸭烧鹅->Roast goose->62
+白斩鸡->Boiled chicken->63
+大盘鸡->Saute Spicy Chicken->64
+香菇蒸鸡->Steamed Chicken with Mushroom->65
+黄焖鸡->Chicken braised with brown sauce->66
+豉油鸡->Soy sauce chicken->67
+辣子鸡->Spicy Chicken->68
+宫保鸡丁->Kung Pao Chicken->69
+三杯鸡->Stewed Chicken with Three Cups Sauce->70
+鸡丝、鸡丝面->Shredded chicken->71
+炸鸡腿->Fried chicken drumsticks->72
+啤酒鸭->Beer duck->73
+腰花->Scalloped pork or lamb kidneys->74
+红烧肉->Braised pork->75
+红烧牛肉->Braised beef->76
+酱牛肉->Beef Seasoned with Soy Sauce ->77
+西红柿牛腩->Sirloin tomatoes->78
+土豆炖牛腩->Stewed sirloin potatoes->79
+杭椒牛柳->Sauteed Beef Fillet with Hot Green Pepper->80
+梅菜扣肉->Pork with salted vegetable->81
+回锅肉->Double cooked pork slices->82
+猪肉炖粉条->Braised Pork with Vermicelli->83
+水煮肉片->Boiled Shredded pork in chili oil->84
+糖醋里脊->Fried Sweet and Sour Tenderloin->85
+咕噜肉->Cripsy sweet & sour pork slices->86
+锅包肉->Pot bag meat->87
+农家小炒肉->Shredded Pork with Vegetables->88
+培根金针菇卷->Tiger lily buds in Baconic->89
+京酱肉丝->Sauteed Shredded Pork in Sweet Bean Sauce->90
+豆角肉丝->Shredded pork with bean->91
+酱焖猪蹄->Braised pig feet with soy sauce->92
+肚丝->Tripe->93
+青椒肉丝->Shredded pork and green pepper->94
+鱼香肉丝->Yu-Shiang Shredded Pork ->95
+木耳炒肉丝->Braised Fungus with pork slice->96
+木须肉->Sauteed Sliced Pork,Eggs and Black Fungus->97
+莴笋肉丝->Lettuce shredded meat->98
+蚂蚁上树->Sauteed Vermicelli with Spicy Minced Pork->99
+孜然羊肉->Fried Lamb with Cumin->100
+羊肉串->Lamb shashlik->101
+葱爆羊肉->Sauteed Sliced Lamb with Scallion->102
+红烧狮子头->Stewed Pork Ball in Brown Sauce->103
+酸菜鱼->Boiled Fish with Picked Cabbage and Chili->104
+烤鱼->Grilled fish->105
+糖醋鲤鱼->Sweet and sour fish->106
+红烧带鱼->Braised Hairtail in Brown Sauce->107
+剁椒鱼头->Steamed Fish Head with Diced Hot Red Peppers->108
+水煮鱼->Fish Filets in Hot Chili Oil->109
+清蒸鲈鱼->Steamed Perch->110
+芝士虾球->Cheese Shrimp Meat->111
+虾仁西兰花->Shrimp broccoli->112
+油焖大虾->Braised Shrimp in chili oil->113
+香辣虾->Spicy shrimp ->114
+香辣小龙虾->Spicy crayfish->115
+水晶虾饺->Shrimp Duplings->116
+蒜蓉粉丝蒸虾->Steamed shrimp with garlic and vermicelli->117
+清炒虾仁->Sauteed Shrimp meat->118
+皮皮虾->Pipi shrimp->119
+扇贝->Scallop in Shell->120
+生蚝->Oysters->121
+鱿鱼->Squid->122
+鲍鱼->Abalone->123
+螃蟹->Crab->124
+鳝鱼->Eel->125
+乌鸡汤->Black bone chicken soup->126
+鲫鱼豆腐汤->Crucian and Bean Curd Soup->127
+疙瘩汤->Dough Drop and Assorted Vegetable Soup->128
+酸辣汤->Hot and Sour Soup->129
+萝卜排骨汤->Pork ribs soup with radish->130
+西红柿鸡蛋汤->Tomato and Egg Soup->131
+莲藕排骨汤->Lotus Root and Rib soup->132
+紫菜蛋花汤->Seaweed and Egg Soup->133
+玉米排骨汤->Corn and sparerib soup->134
+罗宋汤->Borsch->135
+银耳汤->White fungus soup->136
+冬瓜汤->White gourd soup->137
+酱汤->Miso soup->138
+毛血旺->Duck Blood in Chili Sauce->139
+麻辣香锅->Spicy pot->140
+豆类->bean->141
+苦瓜->bitter gourd->142
+葫芦->bottle gourd->143
+茄子->brinjal->144
+西兰花->broccoli->145
+卷心菜->cabbage->146
+辣椒->capsicum->147
+胡萝卜->carrot->148
+花椰菜->cauliflower->149
+黄瓜->cucumber->150
+木瓜->papaya->151
+马铃薯->potato->152
+南瓜->pumpkin->153
+小萝卜->radish->154
+番茄->tomato->155
+黄晶果->abiu->156
+苹果->apple->157
+杏->apricot->158
+鳄梨(牛油果)->avocado->159
+木橘(贝尔果)->bael->160
+香蕉->banana->161
+杨梅->bayberry->162
+甜椒->bell pepper->163
+槟榔->betel nut->164
+黑野樱->black cherry->165
+黑醋栗->black currant->166
+黑桑葚->black mullberry->167
+黑柿->black sapote->168
+蓝莓->blueberry->169
+面包果->bread fruit->170
+佛手->buddha's hand->171
+哈密瓜->cantaloupe->172
+杨桃->carambola->173
+樱桃->cherry->174
+柑桔->clementine->175
+可可豆->cocoa bean->176
+椰子->coconut->177
+咖啡->coffee->178
+蔓越莓->cranberry->179
+释迦凤梨->custard apple->180
+火龙果->dragonfruit->181
+榴莲->durian->182
+无花果->fig->183
+手指酸橙->finger lime->184
+枸杞->goji->185
+醋栗(灯笼果)->gooseberry->186
+葡萄->grape->187
+葡萄柚->grapefruit->188
+青梅->greengage->189
+番石榴->guava->190
+山楂->hawthorn->191
+蜜莓->honeyberry->192
+刺角瓜->horned melon->193
+印度草莓(蛇莓)->indian strawberry->194
+菠萝蜜->jackfruit->195
+墨西哥胡椒->jalapeno->196
+红枣->jujube->197
+奇异果(猕猴桃)->kiwi->198
+金桔->kumquat->199
+柠檬->lemon->200
+青柠->lime->201
+柑橘->mandarine->202
+芒果->mango->203
+山竹->mangosteen->204
+枸杞子->medlar->205
+瓜梨 ->melon pear->206
+神秘果->miracle fruit->207
+甜瓜->muskmelon->208
+油桃->nectarine->209
+肉豆蔻->nutmeg->210
+橄榄->olive->211
+橙子->orange->212
+百香果->passion fruit->213
+豌豆->pea->214
+花生->peanut->215
+梨->pear->216
+柿子->persimmon->217
+菠萝->pineapple->218
+石榴->pomegranate->219
+柚子->pomelo->220
+仙人果->prikly pear->221
+榅桲->quince->222
+红毛丹(毛荔枝)->rambutan->223
+覆盆子->raspberry->224
+红桑葚->red mulberry->225
+红醋栗->redcurrant->226
+仙人掌->saguaro->227
+蛇皮果->salak->228
+人心果->sapodilla->229
+雪果(白浆果)->snowberry->230
+草莓->strawberry->231
+释迦果(佛头果)->sugar apple->232
+树番茄->tamarillo->233
+橘柚->tangelo->234
+西瓜->watermelon->235
+冬瓜->wax gourd->236
+白醋栗->white currant->237
+白桑葚->white mulberry->238
+白柿(香肉果)->white sapote->239
+鸭梨->yali pear->240
+黄李->yellow plum->241
+柚子->yuzu->242
+西葫芦->zucchini->243

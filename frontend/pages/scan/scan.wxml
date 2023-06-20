@@ -1,0 +1,30 @@
+<view class="big">
+    <view class="pic">
+        <view class="img">
+            <!--滑块视图容器-->
+            <swiper autoplay="true" class="slid" interval="2000">
+                <swiper-item>
+                    <view class="headView" id="camera">
+                        <image class="icon" src="/images/logo.jpg"></image>
+                    </view>
+                    <view class="detail">
+                        <view class="userName">果蔬&菜品识别</view>
+                        <view class="info">可识别多达141种中餐、103种果蔬。</view>
+                    </view>
+                </swiper-item>
+            </swiper>
+            <button bindtap="Recognition" class="btn" id="camera">
+                <i-icon color="#fff" size="28" type="camera_fill"></i-icon> 拍照识别
+            </button>
+            <view bindtap="Recognition" class="xc" id="album">
+                <text>从相册选择></text>
+                {{id}}
+            </view>
+            <!--版权-->
+            <view class="copyright">
+              <text class="bq">@_Edge_Runner_</text>
+            </view>
+        </view>
+    </view>
+</view>
+<canvas id="myCanvas" type="2d" style="position: absolute;left:-1000px;top:-1000px;"></canvas>
